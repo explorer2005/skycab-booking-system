@@ -7,6 +7,7 @@
 ## How can I edit this code?
 
 There are several ways of editing your application.(edit)
+There are several ways of editing your application.(dg edit2)
 
 **Use Lovable**
 
